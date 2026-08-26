@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Niko Petering
-- 🌱 I’m currently learning Data Science at Lambda School
+- 👋 Hi, I’m Niko
+- 🌱 I’m currently learning PLC & Electrical Engineering
 - 📫 How to reach me; email - nikogpetering@gmail.com Make sure the subject is something special
 
 <!---
